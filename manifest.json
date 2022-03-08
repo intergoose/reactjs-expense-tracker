@@ -1,0 +1,12 @@
+{
+  "short_name": "Expense tracker",
+  "name": "A simple web app to manage and document day to day expenses all along with providing a nice overview of the month and statistics on the categories and different consumptions",
+  "icons": [{
+    "src": "logo.png",
+    "type": "image/png"
+  }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
