@@ -25,7 +25,7 @@
   * Line chart daily expenses
   * Donut chart for categories
 * Intuitive list view
-
+* Reponsive design
 
 ## How to use
 Its basically the same way you would use a reactjs build :
@@ -35,6 +35,9 @@ $ serve -s build
 ```
 
 Find out more about deployment [here](https://cra.link/deployment "using a reactjs build")
+
+## Inspiration
+The choice of color pallet, sections and design was inspired from Juliette Lagache [work](https://dribbble.com/shots/10803577-Shift-app-balance-and-breakdown), maybe in the future i can incorporate more functionalities related to this design.
 
 ## Credits
 * [material-ui](https://github.com/mui/material-ui "material-ui")
