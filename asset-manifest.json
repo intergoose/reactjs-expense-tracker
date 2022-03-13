@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.6f9f21ae.js",
-    "static/js/787.9abf0215.chunk.js": "/static/js/787.9abf0215.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.6f9f21ae.js.map": "/static/js/main.6f9f21ae.js.map",
-    "787.9abf0215.chunk.js.map": "/static/js/787.9abf0215.chunk.js.map"
+    "main.css": "https://intergoose.github.io/reactjs-expense-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "https://intergoose.github.io/reactjs-expense-tracker/static/js/main.6f9f21ae.js",
+    "static/js/787.9abf0215.chunk.js": "https://intergoose.github.io/reactjs-expense-tracker/static/js/787.9abf0215.chunk.js",
+    "index.html": "https://intergoose.github.io/reactjs-expense-tracker/index.html",
+    "main.e6c13ad2.css.map": "https://intergoose.github.io/reactjs-expense-tracker/static/css/main.e6c13ad2.css.map",
+    "main.6f9f21ae.js.map": "https://intergoose.github.io/reactjs-expense-tracker/static/js/main.6f9f21ae.js.map",
+    "787.9abf0215.chunk.js.map": "https://intergoose.github.io/reactjs-expense-tracker/static/js/787.9abf0215.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.6f9f21ae.js"
+    "https://intergoose.github.io/reactjs-expense-trackerstatic/css/main.e6c13ad2.css",
+    "https://intergoose.github.io/reactjs-expense-trackerstatic/js/main.6f9f21ae.js"
   ]
 }
